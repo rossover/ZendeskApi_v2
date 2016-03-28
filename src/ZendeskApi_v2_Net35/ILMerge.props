@@ -47,7 +47,7 @@
     <ILMergeDelaySign></ILMergeDelaySign>
 
     <!-- Types in assemblies other than the primary assembly have their visibility modified -->
-    <ILMergeInternalize></ILMergeInternalize>
+    <ILMergeInternalize>true</ILMergeInternalize>
 
     <!-- XML documentation files are merged to produce an XML documentation file for the target assembly -->
     <ILMergeXmlDocumentation></ILMergeXmlDocumentation>
